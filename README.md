@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yunjiao-19
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning nothing
+- 👋 Hi, I’m Yunjiao
+- 👀 Welcome to my page
+- 🌱 Have a great day!
 
 
 <!---
